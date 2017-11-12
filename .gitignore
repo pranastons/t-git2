@@ -1,0 +1,6 @@
+#ignore css2
+
+ignore/
+css/*.map
+fonts/
+img/
